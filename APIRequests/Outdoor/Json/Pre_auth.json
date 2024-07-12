@@ -1,0 +1,44 @@
+{
+  "TransRequest": {
+    "ADSDKSpecVer": "6.14.9",
+    "POSID": "01",
+    "APPID": "01",
+    "CCTID": "",
+    "TransactionType": "04",
+    "BlackHawkUpc": "",
+    "TransactionSequenceNumber": "",
+    "StoreLocationID": "1",
+    "ReferenceNumber": "0036870",
+    "InvoiceNumber": "0036870",
+    "PartialAllowed": "1",
+    "CardDataInfo": {
+      "CardDataSource": "2",
+      "EncryptionMode": "00",
+      "TrackData": "",
+      "EMVDetailsData": "",
+      "PINBlock": "",
+      "KSNBlock": "",
+      "TokenizedTrackData": "",
+      "P2PEKSN": "",
+      "P2PEIV0": "",
+      "PinBlockMode": ""
+    },
+    "AmountNoBar": "0",
+    "CardNumber": "",
+    "CardType": "VIF",
+    "CardPresent": "Y",
+    "CurrencyCode": "840",
+    "EntrySource": "",
+    "GiftPurchaseAuthIndicator": "N",
+    "KeyedEntryAVSFlag": "N",
+    "ProcessingMode": "0",
+    "PurchaserPresent": "Y",
+    "TaxExemptFlag": "N",
+    "TipEligible": "0",
+    "TransAmountDetails": {
+      "TransactionTotal": "100.00"
+    },
+    "TransactionDate": "11172022",
+    "TransactionTime": "051940"
+  }
+}
